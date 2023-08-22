@@ -3,10 +3,17 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "675e57bf7c0be3068f41f4304803df4b",
-"assets/AssetManifest.json": "02063a0d720dd803c3d631f9affb350e",
+const RESOURCES = {"assets/AssetManifest.bin": "c3b2c8371bc53b7683463a3018769eb3",
+"assets/AssetManifest.json": "198ab5fe3c7af83e1757aed3d0f183ed",
+"assets/assets/background/background_chosung.png": "3006774bc4b206b7d60c2a149d2b1ea9",
+"assets/assets/background/background_line.png": "554b171cc7586f999663cf6176e0f465",
+"assets/assets/background/background_story.png": "ee45c879430c4ccb2ee647d36593a2c7",
+"assets/assets/background/background_stroop.png": "964549f04af73e78c1a5c264ef62b9f2",
+"assets/assets/background/background_video.png": "d52929800e9ee2b74b2abbc006f014b7",
+"assets/assets/background/background_voca_rp.png": "00a612cb28c0a76f7f400839d5a15466",
 "assets/assets/chosung.png": "4f6579cf515c6131563fa785806676e4",
 "assets/assets/correct.png": "9920934abdc3a44f609cfc2ffe1f3bb2",
+"assets/assets/go_with_me.png": "49c4f5e292ee075d7f34637f8da329f4",
 "assets/assets/line.png": "dec8fd85419b1873e8215380fc47e557",
 "assets/assets/loading.gif": "3b4c0099604ff016ea43a5baddc5ac7d",
 "assets/assets/logo.svg": "1ad11c6aa5fec0654a7137cf6bc4bb94",
@@ -29,6 +36,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "675e57bf7c0be3068f41f4304803df4b
 "assets/assets/story_sample.png": "900492f84d9f9cc08ea4c5f3b53788a8",
 "assets/assets/stroop.png": "3b8f278fa5d07d6bef5deca65b216f1c",
 "assets/assets/voca_rp.png": "3288d62aad0f3e50e68967273c2764f6",
+"assets/assets/what_is_my_dream_color.png": "2ab9317cdc2b34074e7d0804407f86fc",
 "assets/assets/xcomment.png": "2485d815a966407cebb6359167e3a2f9",
 "assets/FontManifest.json": "737d6c688a047f0ae33218fe5623a4dd",
 "assets/fonts/MaterialIcons-Regular.otf": "f22d48633594d498ade39dbea9da6859",
@@ -44,9 +52,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "675e57bf7c0be3068f41f4304803df4b
 "canvaskit/skwasm.worker.js": "19659053a277272607529ef87acf9d8a",
 "flutter.js": "6b515e434cea20006b3ef1726d2c8894",
 "icon.svg": "5857ed12ff88c5aa5ab11c7d10d13c4c",
-"index.html": "45aba7f56e1d76d9d8dcf5a125526bc6",
-"/": "45aba7f56e1d76d9d8dcf5a125526bc6",
-"main.dart.js": "2586ccf813362825140cf517d09d2c5d",
+"index.html": "4120d7112bf957bd738233d048ed17e5",
+"/": "4120d7112bf957bd738233d048ed17e5",
+"main.dart.js": "f70223a68da433dfe99ff724af46a319",
 "manifest.json": "ba651b8b7eb43666984a57f3bac7f9b9",
 "version.json": "115c531a311020add8abacba85e5cbad"};
 // The application shell files that are downloaded before a service worker can
