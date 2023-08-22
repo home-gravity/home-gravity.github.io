@@ -88130,7 +88130,7 @@ var $async$$0=A.D(function(a,b){if(a===1)return A.E(b,r)
 while(true)switch(s){case 0:p=q.a
 o=t.N
 s=2
-return A.B(A.JZ(A.zb("https","api.server-snail.kro.kr:443","/login",null),A.ae(["USER_ID",p.d,"USER_PW",p.e],o,o)),$async$$0)
+return A.B(A.JZ(A.zb("https","server-snail.kro.kr:443","/login",null),A.ae(["USER_ID",p.d,"USER_PW",p.e],o,o)),$async$$0)
 case 2:n=b
 s=n.b===200?3:4
 break
