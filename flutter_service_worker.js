@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "a6ef56a4c61f48473c7c55f58183e287",
-"assets/AssetManifest.json": "68bd0b13facce47badb1820004e008b9",
+const RESOURCES = {"assets/AssetManifest.bin": "9d5006b3d1b400eeecd2e81277c77e62",
+"assets/AssetManifest.json": "746b4e97872434d26b3e3d4898d1ea4c",
 "assets/assets/background/background_chosung.png": "3006774bc4b206b7d60c2a149d2b1ea9",
 "assets/assets/background/background_line.png": "554b171cc7586f999663cf6176e0f465",
 "assets/assets/background/background_stroop.png": "964549f04af73e78c1a5c264ef62b9f2",
@@ -68,7 +68,6 @@ const RESOURCES = {"assets/AssetManifest.bin": "a6ef56a4c61f48473c7c55f58183e287
 "assets/assets/sounds/test_name/story.wav": "9d72fde939883b91ae7ecbd2447c715f",
 "assets/assets/sounds/test_name/stroop.wav": "1303211c115508adfff202338851688f",
 "assets/assets/story.png": "ad58d8cca98c4c4661c1f1fcb925cc53",
-"assets/assets/story_sample.mp4": "e963149952de849266e0d581acea87a4",
 "assets/assets/story_sample.png": "900492f84d9f9cc08ea4c5f3b53788a8",
 "assets/assets/stroop.png": "3b8f278fa5d07d6bef5deca65b216f1c",
 "assets/assets/voca_rp.png": "3288d62aad0f3e50e68967273c2764f6",
@@ -88,9 +87,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "a6ef56a4c61f48473c7c55f58183e287
 "canvaskit/skwasm.worker.js": "19659053a277272607529ef87acf9d8a",
 "flutter.js": "6b515e434cea20006b3ef1726d2c8894",
 "icon.svg": "5857ed12ff88c5aa5ab11c7d10d13c4c",
-"index.html": "a9958103107a194cf085eaa314acd362",
-"/": "a9958103107a194cf085eaa314acd362",
-"main.dart.js": "f8f0462595a7da90dab1c42798bc4b04",
+"index.html": "b53a4f23376b3f29c5c44a62bd6c4640",
+"/": "b53a4f23376b3f29c5c44a62bd6c4640",
+"main.dart.js": "950527190ebf107926fec7d119c02cae",
 "manifest.json": "ba651b8b7eb43666984a57f3bac7f9b9",
 "version.json": "115c531a311020add8abacba85e5cbad"};
 // The application shell files that are downloaded before a service worker can
