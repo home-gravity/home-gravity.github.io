@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "e7f81e9350647444093aeb6e3c31cb94",
-"assets/AssetManifest.json": "f72b41d8cc126d9e6a82860d25fbc55d",
+const RESOURCES = {"assets/AssetManifest.bin": "a6ef56a4c61f48473c7c55f58183e287",
+"assets/AssetManifest.json": "68bd0b13facce47badb1820004e008b9",
 "assets/assets/background/background_chosung.png": "3006774bc4b206b7d60c2a149d2b1ea9",
 "assets/assets/background/background_line.png": "554b171cc7586f999663cf6176e0f465",
 "assets/assets/background/background_stroop.png": "964549f04af73e78c1a5c264ef62b9f2",
@@ -33,7 +33,6 @@ const RESOURCES = {"assets/AssetManifest.bin": "e7f81e9350647444093aeb6e3c31cb94
 "assets/assets/snail.png": "f6da418a7d0338755d821806bd5209fc",
 "assets/assets/snail_rainbow.png": "0e8c742fb7b8b5a8e3303b3711d2a151",
 "assets/assets/sounds/check.mp3": "73331cf06418667cf9f9c0fc2fc85122",
-"assets/assets/sounds/guide/%25EB%2593%25A4%25EB%25A0%25A4%25EC%25A4%2580_%25EB%258B%25A8%25EC%2596%25B4%25EB%25A5%25BC_%25EB%2594%25B0%25EB%259D%25BC_%25EB%25A7%2590%25ED%2595%25B4%25EB%25B3%25B4%25EC%2584%25B8%25EC%259A%2594.wav": "035f58bbd6e8556afa57d93ac58e848b",
 "assets/assets/sounds/guide/chosung.wav": "ab3f7a902f52b9a27b902d44f530e875",
 "assets/assets/sounds/guide/line.wav": "eda9385e678813ac030ed4e636a5ca2c",
 "assets/assets/sounds/guide/repeat.wav": "e4612627bb000d801c11a0f98713da1a",
@@ -58,9 +57,6 @@ const RESOURCES = {"assets/AssetManifest.bin": "e7f81e9350647444093aeb6e3c31cb94
 "assets/assets/sounds/repeat_test/%25EC%2598%25A4%25EC%259D%25B4.wav": "4a7e5768389592a047c2ac744a4c3b72",
 "assets/assets/sounds/repeat_test/%25EC%259E%2590%25EB%259D%25BC.wav": "4f254573d0f8e924c62079caeb49c166",
 "assets/assets/sounds/repeat_test/%25EC%25B9%25B4%25EB%2593%259C.wav": "80461ed37d9cedf60162a1b7daf7434f",
-"assets/assets/sounds/story_test/%25EC%2598%2581%25EC%2583%2581%25EC%259D%2584_%25EB%25B3%25B4%25EA%25B3%25A0_%25EC%259D%25B4%25EC%2595%25BC%25EA%25B8%25B0%25EB%25A5%25BC_%25EB%2582%2598%25EB%2588%25A0%25EB%25B4%2590%25EC%259A%2594.wav": "360465ff151bf6a2011cfa32a655e4b7",
-"assets/assets/sounds/story_test/%25EC%25A0%2595%25EB%258B%25B5%25EC%259D%2584_%25EB%25A7%2590%25ED%2595%25B4%25EC%25A3%25BC%25EC%2584%25B8%25EC%259A%2594.wav": "543d382ca83fbc65bdbe61c11fb5b338",
-"assets/assets/sounds/story_test/%25EC%25A2%2585%25EB%25A3%258C%25ED%2595%2598%25EA%25B8%25B0_%25EB%25B2%2584%25ED%258A%25BC%25EC%259D%2584_%25EB%2588%2584%25EB%25A5%25B4%25EB%25A9%25B4_%25EA%25B2%258C%25EC%259E%2584%25EC%259D%2584_%25EB%25A7%2588%25EB%25AC%25B4%25EB%25A6%25AC%25ED%2595%25A0_%25EC%2588%2598_%25EC%259E%2588%25EC%2596%25B4%25EC%259A%2594.wav": "4b7f64f56bb3993b96c4c8e5266696a1",
 "assets/assets/sounds/story_test/endbubble01.wav": "5a10ef6b45b6f917b83ea7ab273f2653",
 "assets/assets/sounds/story_test/endbubble02.wav": "c7d2d0627eba4ea8ca1b87c69d341e3b",
 "assets/assets/sounds/story_test/startbubble01.wav": "c29cb905570eca0ceeb76e150622d16e",
@@ -92,9 +88,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "e7f81e9350647444093aeb6e3c31cb94
 "canvaskit/skwasm.worker.js": "19659053a277272607529ef87acf9d8a",
 "flutter.js": "6b515e434cea20006b3ef1726d2c8894",
 "icon.svg": "5857ed12ff88c5aa5ab11c7d10d13c4c",
-"index.html": "cb2fba657a0ffb2edc1234ea1dd9c02d",
-"/": "cb2fba657a0ffb2edc1234ea1dd9c02d",
-"main.dart.js": "63c7968c86bf031cb2a3d35174d93279",
+"index.html": "a9958103107a194cf085eaa314acd362",
+"/": "a9958103107a194cf085eaa314acd362",
+"main.dart.js": "f8f0462595a7da90dab1c42798bc4b04",
 "manifest.json": "ba651b8b7eb43666984a57f3bac7f9b9",
 "version.json": "115c531a311020add8abacba85e5cbad"};
 // The application shell files that are downloaded before a service worker can
